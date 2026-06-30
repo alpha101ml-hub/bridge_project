@@ -1,0 +1,12 @@
+The "Business Brain" Lesson for Today
+
+Look at that number: 26.5% of customers left.
+In a real business, if you have 7,000 customers paying $65/month, that means **$120,000 of monthly revenue just walked out the door.**
+
+Right now, Marketing, Sales, and Support are all pointing fingers at each other.
+
+    Sales says: "Marketing gave us bad leads."
+
+    Support says: "Sales promised features we don't have."
+
+Your job as the AI Bridge is: Find out why these 1,869 people left, so Sales can save them next time.
